@@ -1,4 +1,4 @@
-# 🔐 ChatWebApp
+# ChatWebApp
 
 A secure real-time chat app built with **Node.js**, **Express**, **PostgreSQL**, and **Multer**, supporting encrypted messages and media uploads.  
 Works **without internet** using **local network** (LAN-based communication).
